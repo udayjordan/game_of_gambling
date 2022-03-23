@@ -1,3 +1,5 @@
-# guess-the-number
-basic games 
-#it is an game based on guessing the number which is generated randomly by the system and based on that it is based it basically done using   html5,css,and js
+# game of gambling
+# html
+# css
+# js
+game based on gambling like the game you try on casino where you bet for money and each time you loose it makes you tempt to play more and bet money against it .so,this project is basically a front-end developed game which works based on guessing
